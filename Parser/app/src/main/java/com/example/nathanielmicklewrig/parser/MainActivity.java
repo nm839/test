@@ -28,8 +28,5 @@ public class MainActivity extends AppCompatActivity {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-        List check = new ArrayList();
-        check = elements;
     }
 }
